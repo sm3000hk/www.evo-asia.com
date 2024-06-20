@@ -1,0 +1,336 @@
+Uri: https://app.termshub.io/9f537f0d-170e-4d3a-848b-ae796b628851/termshub-cookie-consent.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\9f537f0d-170e-4d3a-848b-ae796b628851\termshub-cookie-consent.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\Chart.js\2.4.0\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\ajax\libs\jquery\2.2.2\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/cabin/v27/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7alwg.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\cabin\v27\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cabin/v27/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\cabin\v27\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cabin/v27/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7alwg.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\cabin\v27\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cabin/v27/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7alwg.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\cabin\v27\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/apply-with-facebook.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\apply-with-facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/apply-with-indeed.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\apply-with-indeed.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/apply-with-linkedin.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\apply-with-linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/apply-with-seek.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\apply-with-seek.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/apply/seek-apply-with-logo.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\apply\seek-apply-with-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/login-with-facebook.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\login-with-facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/login-with-google.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\login-with-google.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/login-with-linkedin.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\login-with-linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/paypal.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/upload-via-dropbox.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\upload-via-dropbox.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/upload-via-google-drive.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\upload-via-google-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://jetstarau.jxt.co/media/COMMON/images/upload-via-one-drive.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\images\upload-via-one-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://www.evo-asia.com/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/about-us-our-approach/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\about-us-our-approach\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/careers/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\careers\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/contact-us/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/http_fontsgoogleapiscom/css?family=Open+Sans:400,300,600,700,800|Montserrat:400,500,600,700|Cabin:400,500,600,700
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\http_fontsgoogleapiscom\css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/COMMON/css/GlobalStyle.css
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\css\GlobalStyle.css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/COMMON/js/include-feed-3.0.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\js\include-feed-3.0.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/media/COMMON/js/jquery.browser.min.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\js\jquery.browser.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.evo-asia.com/media/COMMON/js/jxtscript.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\js\jxtscript.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/media/COMMON/js/responsive-plugins-0.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\COMMON\js\responsive-plugins-0.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/media/evo-asia/client/Evo logo.svg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\client\Evo logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.evo-asia.com/media/evo-asia/client/PERSOLKELLY MY_Privacy Policy (Version 3 - 27 Oct 2022) EVO MY.pdf
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\client\PERSOLKELLY MY_Privacy Policy (Version 3 - 27 Oct 2022) EVO MY.pdf
+Content Type: application/pdf
+
+Uri: https://www.evo-asia.com/media/evo-asia/css/bootstrap.min.css
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/evo-asia/css/r15-icons.css
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\css\r15-icons.css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/evo-asia/css/slick.css
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\css\slick.css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/evo-asia/css/stm.css
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\css\stm.css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/evo-asia/css/style.css?v=1.2
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\css\style.css
+Content Type: text/css
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/about-banner1.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\about-banner1.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/about-banner2.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\about-banner2.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/apple-icon-144x144.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/arrow.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\arrow.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/banner1.jpg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/banner2.jpg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/favicon.ico
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/logo-og.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\logo-og.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/logo-sm.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\logo-sm.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/logo.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\logo.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/nice.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\nice.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/niceicon.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\niceicon.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/placeholder.gif
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\placeholder.gif
+Content Type: image/gif
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/service2.jpg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\service2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/service3.jpg
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\service3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/touch-icon-ipad-retina.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\touch-icon-ipad-retina.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/touch-icon-ipad.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\touch-icon-ipad.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/images/touch-icon-iphone-retina.png
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\images\touch-icon-iphone-retina.png
+Content Type: image/png
+
+Uri: https://www.evo-asia.com/media/evo-asia/js/bootstrap.min.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/media/evo-asia/js/jquery.tablesorter.min.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\js\jquery.tablesorter.min.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/media/evo-asia/js/manifest.json
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\js\manifest.json
+Content Type: application/json
+
+Uri: https://www.evo-asia.com/media/evo-asia/js/myjs.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\js\myjs.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/media/evo-asia/js/slick.min.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\media\evo-asia\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.evo-asia.com/news.aspx
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\news.aspx.html
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/news/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\news\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/newsrss.aspx
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\newsrss.aspx
+Content Type: text/xml
+
+Uri: https://www.evo-asia.com/privacy-policy/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/scripts/JXTWidget.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\scripts\JXTWidget.js
+Content Type: application/x-javascript
+
+Uri: https://www.evo-asia.com/scripts/news-script.js
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\scripts\news-script.js
+Content Type: application/x-javascript
+
+Uri: https://www.evo-asia.com/services-grid/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\services-grid\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/services/bpo-contact-center/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\services\bpo-contact-center\index.htm
+Content Type: text/html
+
+Uri: https://www.evo-asia.com/services/managed-services/
+File Name: D:\Work\Persolkelly\site backup\www.evo-asia.com\services\managed-services\index.htm
+Content Type: text/html
+
